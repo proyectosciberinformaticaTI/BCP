@@ -1,0 +1,22 @@
+[
+  {
+    "monedaOrigen": "SOLES",
+    "monedaDestino": "DOLAR",
+    "tipoCambio": 0.29
+  },
+  {
+    "monedaOrigen": "SOLES",
+    "monedaDestino": "EURO",
+    "tipoCambio": 0.26
+  },
+  {
+    "monedaOrigen": "DOLAR",
+    "monedaDestino": "SOLES",
+    "tipoCambio": 3.48
+  },
+  {
+    "monedaOrigen": "EURO",
+    "monedaDestino": "SOLES",
+    "tipoCambio": 3.92
+  }
+]
